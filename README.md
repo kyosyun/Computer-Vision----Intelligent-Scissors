@@ -1,2 +1,0 @@
-Computer-Vision----Intelligent-Scissors
-=======================================
